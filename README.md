@@ -2,4 +2,5 @@
 ### [Лабораторная Работа 1](https://github.com/nrashchynski/OSLab1) (Создание Процессов)
 ### [Лабораторная Работа 2](https://github.com/nrashchynski/OSLab2) (Создание Потоков)
 ### [Лабораторная Работа 3](https://github.com/nrashchynski/OSLab3) (Синхронизация Потоков)
-### [Коллоквиум](https://github.com/nrashchynski/OS_KR)
+### [Коллоквиум 1](https://github.com/nrashchynski/OS_KR)
+### [Коллоквиум 3](https://github.com/nrashchynski/OS_KR3)
